@@ -1,0 +1,12 @@
+body {
+  margin: 30px;
+}
+th {
+  text-align: center;
+  color: #198754;
+}
+
+td {
+  text-align: center;
+  color: #2e78e7;
+}
